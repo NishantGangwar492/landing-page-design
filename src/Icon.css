@@ -1,0 +1,19 @@
+.icon{
+    font: normal normal medium 28px / 37px Roboto;
+    opacity: 0.64; 
+    filter: grayscale(100%);
+}
+
+.google{
+    margin-top: -.5rem;
+}
+
+.northern, .integration{
+    margin-top: 1.2rem;
+    font-weight: 700;
+}
+
+.northern{
+    margin-left: 1.4rem;
+}
+

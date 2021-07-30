@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": "build",
+    "site": "landing-page-3d604",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
